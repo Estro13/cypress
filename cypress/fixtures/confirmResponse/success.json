@@ -1,0 +1,23 @@
+{
+  "task_id": "cache",
+  "data": {
+    "channel": "",
+    "confirm_error_code": "free",
+    "dialogs": {},
+    "payments": [
+      {
+        "aCard": "5168757414680050",
+        "amount": "1.00",
+        "bName": "Kyivstar Ukraine",
+        "currency": "UAH",
+        "description": "Поповнення телефону. На номер +380965854824",
+        "link": "mobipay",
+        "ref": "P24A67793346D801869"
+      }
+    ],
+    "result": "accept",
+    "timestamp": "1658263981540"
+  },
+  "ref": "payments_a5394b80f40dd0b5cf680750ace2b09520770ee6",
+  "status": "success"
+}
